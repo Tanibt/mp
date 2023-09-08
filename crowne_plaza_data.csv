@@ -1,51 +1,51 @@
 Customer ID,Full Name,Gender,Age,Email,Phone Number,Country,Check-in Date,Check-out Date,Room Type,Total Amount,Number of Guests,Loyalty Member ID,Loyalty Points,Qualified,Loyalty Tier
 1001,Andrew Anderson,Male,41,andrew.anderson@example.com,51112222,United States,20-05-23,25-05-23,Deluxe King Room,1250,3,100001,700,Yes,Gold
-1002,Elizabeth Johnson,Female,29,elizabeth.johnson@example.com,55551234,Canada,15-05-23,18-05-23,Executive Suite,1900,2,100002,800,Yes,
-1003,James Smith,Male,55,james.smith@example.com,54443333,United Kingdom,10-02-23,15-02-23,Deluxe Twin Room,980,1,100003,300,No,
-1004,Sophia White,Female,30,sophia.white@example.com,56667777,Australia,05-04-23,10-03-23,Standard Room,750,4,100004,200,No,
-1005,Matthew Lee,Male,38,matthew.lee@example.com,58887777,China,02-03-23,08-03-23,Junior Suite,1400,1,100005,900,Yes,
-1006,Emma Kim,Female,35,emma.kim@example.com,52221111,South Korea,01-05-23,07-05-23,Deluxe King Room,1650,2,100006,600,Yes,
-1007,Michael Chen,Male,31,michael.chen@example.com,57775555,China,12-01-23,17-01-23,Standard Room,600,4,100007,100,No,
-1008,Sophia Garcia,Female,27,sophia.garcia@example.com,59998888,Mexico,18-04-23,23-04-23,Deluxe Twin Room,980,3,100008,400,No,
-1009,William Rodriguez,Male,32,william.rodriguez@example.com,57779999,Spain,05-02-23,10-02-23,Executive Suite,1900,2,100009,800,Yes,
-1010,Oliver Nguyen,Male,27,oliver.nguyen@example.com,54441111,Vietnam,20-02-23,26-02-23,Junior Suite,1400,1,100010,700,Yes,
-1011,Ava Lee,Female,25,ava.lee@example.com,53216543,United States,18-05-23,24-05-23,Deluxe King Room,1250,4,100011,300,No,
-1012,Charlotte Singh,Female,28,charlotte.singh@example.com,51237890,Canada,15-04-23,20-04-23,Executive Suite,1900,2,100012,100,No,
-1013,Ethan Smith,Male,42,ethan.smith@example.com,59997777,United Kingdom,10-05-23,15-05-23,Deluxe Twin Room,980,1,100013,600,Yes,
-1014,Mia Brown,Female,29,mia.brown@example.com,54442222,Australia,05-04-23,10-04-23,Standard Room,750,3,100014,200,No,
-1015,Aiden Li,Male,39,aiden.li@example.com,56668888,China,02-04-23,08-04-23,Junior Suite,1400,1,100015,900,Yes,
-1016,Amelia Kim,Female,36,amelia.kim@example.com,52223333,South Korea,01-05-23,07-05-23,Deluxe King Room,1650,2,100016,600,Yes,
-1017,James Chen,Male,33,james.chen@example.com,57774444,China,12-03-23,17-03-23,Standard Room,600,4,100017,100,No,
-1018,Abigail Martinez,Female,29,abigail.martinez@example.com,58885555,Mexico,18-02-23,23-02-23,Deluxe Twin Room,980,1,100018,400,No,
-1019,Logan Khan,Male,34,logan.khan@example.com,57772222,India,05-02-23,10-02-23,Executive Suite,1900,2,100019,700,Yes,
-1020,Emily Nguyen,Female,28,emily.nguyen@example.com,54441112,Vietnam,20-01-23,26-01-23,Junior Suite,1400,1,100020,800,Yes,
-1021,Noah Wong,Male,43,noah.wong@example.com,57780006,United States,15-01-23,20-01-23,Deluxe King Room,1250,4,100021,300,No,
-1022,Ella Lee,Female,29,ella.lee@example.com,51234567,Canada,10-02-23,15-02-23,Executive Suite,1900,3,100022,100,No,
-1023,Michael Singh,Male,56,michael.singh@example.com,54443334,United Kingdom,05-03-23,10-03-23,Deluxe Twin Room,980,2,100023,600,Yes,
-1024,Sofia Smith,Female,30,sofia.smith@example.com,56667783,Australia,15-04-23,20-04-23,Standard Room,750,1,100024,200,No,
-1025,Aiden Chen,Male,39,aiden.chen@example.com,58887785,China,02-05-23,08-05-23,Junior Suite,1400,4,100025,900,Yes,
-1026,Olivia Park,Female,35,olivia.park@example.com,52221120,South Korea,01-04-23,07-04-23,Deluxe King Room,1650,1,100026,600,Yes,
-1027,James Johnson,Male,31,james.johnson@example.com,57775564,China,12-03-23,17-03-23,Standard Room,600,3,100027,100,No,
-1028,Ava Lopez,Female,27,ava.lopez@example.com,59998895,Mexico,18-05-23,23-05-23,Deluxe Twin Room,980,2,100028,400,No,
-1029,Liam Nguyen,Male,32,liam.nguyen@example.com,57780007,Spain,05-04-23,10-04-23,Executive Suite,1900,1,100029,700,Yes,
-1030,Sophia Kim,Female,27,sophia.kim@example.com,54441120,Vietnam,20-01-23,26-01-23,Junior Suite,1400,4,100030,800,Yes,
-1031,Liam Wang,Male,40,liam.wang@example.com,53216549,United States,18-03-23,24-03-23,Deluxe King Room,1250,3,100031,300,No,
-1032,Isabella Singh,Female,29,isabella.singh@example.com,51237894,Canada,15-04-23,20-04-23,Executive Suite,1900,2,100032,100,No,
-1033,Aiden Smith,Male,42,aiden.smith@example.com,59997782,United Kingdom,10-01-23,15-01-23,Deluxe Twin Room,980,1,100033,600,Yes,
-1034,Mia Li,Female,29,mia.li@example.com,54442229,Australia,05-02-23,10-02-23,Standard Room,750,4,100034,200,No,
-1035,Ethan Garcia,Male,39,ethan.garcia@example.com,56668890,China,10-03-23,14-03-23,Junior Suite,1400,1,100035,900,Yes,
-1036,Emma Kim,Female,36,emma.kim@example.com,52223336,South Korea,01-04-23,07-04-23,Deluxe King Room,1650,2,100036,600,Yes,
-1037,Michael Chen,Male,33,michael.chen@example.com,57774448,China,12-05-23,17-05-23,Standard Room,600,3,100037,100,No,
-1038,Isabella Martinez,Female,29,isabella.martinez@example.com,58885561,Mexico,18-03-23,23-03-23,Deluxe Twin Room,980,4,100038,400,No,
-1039,Logan Khan,Male,34,logan.khan@example.com,57772228,India,05-04-23,10-04-23,Executive Suite,1900,1,100039,700,Yes,
-1040,Emily Nguyen,Female,28,emily.nguyen@example.com,54441127,Vietnam,20-01-23,26-01-23,Junior Suite,1400,2,100040,800,Yes,
-1041,Sophia Kim,Female,27,sophia.kim@example.com,53216552,United States,15-05-23,20-05-23,Deluxe King Room,1250,4,100041,300,No,
-1042,Charlotte Singh,Female,28,charlotte.singh@example.com,51237893,Canada,10-03-23,15-03-23,Executive Suite,1900,2,100042,100,No,
-1043,Ethan Smith,Male,42,ethan.smith@example.com,59997783,United Kingdom,05-02-23,10-02-23,Deluxe Twin Room,980,1,100043,600,Yes,
-1044,Mia Brown,Female,29,mia.brown@example.com,54442227,Australia,02-01-23,08-01-23,Standard Room,750,3,100044,200,No,
-1045,Aiden Li,Male,39,aiden.li@example.com,56668893,China,10-01-23,14-01-23,Junior Suite,1400,1,100045,900,Yes,
-1046,Amelia Kim,Female,36,amelia.kim@example.com,52223335,South Korea,15-02-23,20-02-23,Deluxe King Room,1650,2,100046,600,Yes,
-1047,James Chen,Male,33,james.chen@example.com,57775561,China,10-03-23,15-03-23,Standard Room,600,4,100047,100,No,
-1048,Abigail Martinez,Female,29,abigail.martinez@example.com,58885559,Mexico,05-04-23,10-04-23,Deluxe Twin Room,980,1,100048,400,No,
-1049,Logan Khan,Male,34,logan.khan@example.com,57772231,India,20-05-23,26-05-23,Executive Suite,1900,2,100049,700,Yes,
-1050,Emily Nguyen,Female,28,emily.nguyen@example.com,54441119,Vietnam,18-05-23,23-05-23,Junior Suite,1400,1,100050,800,Yes,
+1002,Elizabeth Johnson,Female,29,elizabeth.johnson@example.com,55551234,Canada,15-05-23,18-05-23,Executive Suite,1900,2,100002,800,Yes,Gold
+1003,James Smith,Male,55,james.smith@example.com,54443333,United Kingdom,10-02-23,15-02-23,Deluxe Twin Room,980,1,100003,1200,Yes,Elite
+1004,Sophia White,Female,30,sophia.white@example.com,56667777,Australia,05-04-23,10-03-23,Standard Room,750,4,100004,200,No,Silver
+1005,Matthew Lee,Male,38,matthew.lee@example.com,58887777,China,02-03-23,08-03-23,Junior Suite,1400,1,100005,900,Yes,Gold
+1006,Emma Kim,Female,35,emma.kim@example.com,52221111,South Korea,01-05-23,07-05-23,Deluxe King Room,1650,2,100006,600,Yes,Gold
+1007,Michael Chen,Male,31,michael.chen@example.com,57775555,China,12-01-23,17-01-23,Standard Room,600,4,100007,100,No,Silver
+1008,Sophia Garcia,Female,27,sophia.garcia@example.com,59998888,Mexico,18-04-23,23-04-23,Deluxe Twin Room,980,3,100008,400,No,Silver
+1009,William Rodriguez,Male,32,william.rodriguez@example.com,57779999,Spain,05-02-23,10-02-23,Executive Suite,1900,2,100009,800,Yes,Gold
+1010,Oliver Nguyen,Male,27,oliver.nguyen@example.com,54441111,Vietnam,20-02-23,26-02-23,Junior Suite,1400,1,100010,700,Yes,Gold
+1011,Ava Lee,Female,25,ava.lee@example.com,53216543,United States,18-05-23,24-05-23,Deluxe King Room,1250,4,100011,2600,Yes,Diamond
+1012,Charlotte Singh,Female,28,charlotte.singh@example.com,51237890,Canada,15-04-23,20-04-23,Executive Suite,1900,2,100012,100,No,Silver
+1013,Ethan Smith,Male,42,ethan.smith@example.com,59997777,United Kingdom,10-05-23,15-05-23,Deluxe Twin Room,980,1,100013,600,Yes,Gold
+1014,Mia Brown,Female,29,mia.brown@example.com,54442222,Australia,05-04-23,10-04-23,Standard Room,750,3,100014,200,No,Silver
+1015,Aiden Li,Male,39,aiden.li@example.com,56668888,China,02-04-23,08-04-23,Junior Suite,1400,1,100015,900,Yes,Gold
+1016,Amelia Kim,Female,36,amelia.kim@example.com,52223333,South Korea,01-05-23,07-05-23,Deluxe King Room,1650,2,100016,600,Yes,Gold
+1017,James Chen,Male,33,james.chen@example.com,57774444,China,12-03-23,17-03-23,Standard Room,600,4,100017,100,No,Silver
+1018,Abigail Martinez,Female,29,abigail.martinez@example.com,58885555,Mexico,18-02-23,23-02-23,Deluxe Twin Room,980,1,100018,400,No,Silver
+1019,Logan Khan,Male,34,logan.khan@example.com,57772222,India,05-02-23,10-02-23,Executive Suite,1900,2,100019,700,Yes,Gold
+1020,Emily Nguyen,Female,28,emily.nguyen@example.com,54441112,Vietnam,20-01-23,26-01-23,Junior Suite,1400,1,100020,800,Yes,Gold
+1021,Noah Wong,Male,43,noah.wong@example.com,57780006,United States,15-01-23,20-01-23,Deluxe King Room,1250,4,100021,300,No,Silver
+1022,Ella Lee,Female,29,ella.lee@example.com,51234567,Canada,10-02-23,15-02-23,Executive Suite,1900,3,100022,1300,Yes,Elite
+1023,Michael Singh,Male,56,michael.singh@example.com,54443334,United Kingdom,05-03-23,10-03-23,Deluxe Twin Room,980,2,100023,600,Yes,Gold
+1024,Sofia Smith,Female,30,sofia.smith@example.com,56667783,Australia,15-04-23,20-04-23,Standard Room,750,1,100024,200,No,Silver
+1025,Aiden Chen,Male,39,aiden.chen@example.com,58887785,China,02-05-23,08-05-23,Junior Suite,1400,4,100025,900,Yes,Gold
+1026,Olivia Park,Female,35,olivia.park@example.com,52221120,South Korea,01-04-23,07-04-23,Deluxe King Room,1650,1,100026,600,Yes,Gold
+1027,James Johnson,Male,31,james.johnson@example.com,57775564,China,12-03-23,17-03-23,Standard Room,600,3,100027,100,No,Silver
+1028,Ava Lopez,Female,27,ava.lopez@example.com,59998895,Mexico,18-05-23,23-05-23,Deluxe Twin Room,980,2,100028,400,No,Silver
+1029,Liam Nguyen,Male,32,liam.nguyen@example.com,57780007,Spain,05-04-23,10-04-23,Executive Suite,1900,1,100029,700,Yes,Gold
+1030,Sophia Kim,Female,27,sophia.kim@example.com,54441120,Vietnam,20-01-23,26-01-23,Junior Suite,1400,4,100030,800,Yes,Gold
+1031,Liam Wang,Male,40,liam.wang@example.com,53216549,United States,18-03-23,24-03-23,Deluxe King Room,1250,3,100031,300,No,Silver
+1032,Isabella Singh,Female,29,isabella.singh@example.com,51237894,Canada,15-04-23,20-04-23,Executive Suite,1900,2,100032,100,No,Silver
+1033,Aiden Smith,Male,42,aiden.smith@example.com,59997782,United Kingdom,10-01-23,15-01-23,Deluxe Twin Room,980,1,100033,600,Yes,Gold
+1034,Mia Li,Female,29,mia.li@example.com,54442229,Australia,05-02-23,10-02-23,Standard Room,750,4,100034,200,No,Silver
+1035,Ethan Garcia,Male,39,ethan.garcia@example.com,56668890,China,10-03-23,14-03-23,Junior Suite,1400,1,100035,900,Yes,Gold
+1036,Emma Kim,Female,36,emma.kim@example.com,52223336,South Korea,01-04-23,07-04-23,Deluxe King Room,1650,2,100036,600,Yes,Gold
+1037,Michael Chen,Male,33,michael.chen@example.com,57774448,China,12-05-23,17-05-23,Standard Room,600,3,100037,100,No,Silver
+1038,Isabella Martinez,Female,29,isabella.martinez@example.com,58885561,Mexico,18-03-23,23-03-23,Deluxe Twin Room,980,4,100038,400,No,Silver
+1039,Logan Khan,Male,34,logan.khan@example.com,57772228,India,05-04-23,10-04-23,Executive Suite,1900,1,100039,2300,Yes,Diamond
+1040,Emily Nguyen,Female,28,emily.nguyen@example.com,54441127,Vietnam,20-01-23,26-01-23,Junior Suite,1400,2,100040,800,Yes,Gold
+1041,Sophia Kim,Female,27,sophia.kim@example.com,53216552,United States,15-05-23,20-05-23,Deluxe King Room,1250,4,100041,300,No,Silver
+1042,Charlotte Singh,Female,28,charlotte.singh@example.com,51237893,Canada,10-03-23,15-03-23,Executive Suite,1900,2,100042,1500,Yes,Elite
+1043,Ethan Smith,Male,42,ethan.smith@example.com,59997783,United Kingdom,05-02-23,10-02-23,Deluxe Twin Room,980,1,100043,600,Yes,Gold
+1044,Mia Brown,Female,29,mia.brown@example.com,54442227,Australia,02-01-23,08-01-23,Standard Room,750,3,100044,200,No,Silver
+1045,Aiden Li,Male,39,aiden.li@example.com,56668893,China,10-01-23,14-01-23,Junior Suite,1400,1,100045,1270,Yes,Elite
+1046,Amelia Kim,Female,36,amelia.kim@example.com,52223335,South Korea,15-02-23,20-02-23,Deluxe King Room,1650,2,100046,600,Yes,Gold
+1047,James Chen,Male,33,james.chen@example.com,57775561,China,10-03-23,15-03-23,Standard Room,600,4,100047,100,No,Silver
+1048,Abigail Martinez,Female,29,abigail.martinez@example.com,58885559,Mexico,05-04-23,10-04-23,Deluxe Twin Room,980,1,100048,400,No,Silver
+1049,Logan Khan,Male,34,logan.khan@example.com,57772231,India,20-05-23,26-05-23,Executive Suite,1900,2,100049,700,Yes,Gold
+1050,Emily Nguyen,Female,28,emily.nguyen@example.com,54441119,Vietnam,18-05-23,23-05-23,Junior Suite,1400,1,100050,800,Yes,Gold
